@@ -5,7 +5,6 @@ private String internet;
         super(id, name, description, price);
         this.internet = internet;
     }
-
     public String getInternet() {
         return internet;
     }
