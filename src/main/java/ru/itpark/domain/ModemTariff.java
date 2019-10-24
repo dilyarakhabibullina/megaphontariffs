@@ -1,3 +1,5 @@
+package ru.itpark.domain;
+
 public class ModemTariff extends Tariff {
 private String internet;
 
@@ -5,7 +7,7 @@ private String internet;
         super(id, name, description, price);
         this.internet = internet;
     }
-    
+
     public String getInternet() {
         return internet;
     }

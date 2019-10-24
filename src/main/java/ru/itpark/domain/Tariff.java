@@ -1,3 +1,5 @@
+package ru.itpark.domain;
+
 public abstract class Tariff {
     private int id;
     private String name;

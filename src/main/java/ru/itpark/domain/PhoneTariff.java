@@ -1,3 +1,5 @@
+package ru.itpark.domain;
+
 public class PhoneTariff extends Tariff {
     private String minutesQuantity;
     private int cashback;

@@ -1,3 +1,5 @@
+package ru.itpark.domain;
+
 public class OtherTariff extends ModemTariff {
     private String OtherFeatures;
 
