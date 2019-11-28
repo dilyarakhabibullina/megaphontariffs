@@ -12,6 +12,7 @@ public class OtherTariff extends ModemTariff {
         return OtherFeatures;
     }
 
+    
     public void setOtherFeatures(String otherFeatures) {
         OtherFeatures = otherFeatures;
     }
